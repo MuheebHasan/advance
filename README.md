@@ -63,7 +63,7 @@ The API is fully documented using Postman. Access the documentation [here] ([lin
 2. Manages data storage, manipulation, and validation.
 3. Defines the structure and behavior of the application's data, ensuring consistency and integrity.
 
-![image](https://github.com/advance-project/CommuniCraft-AdvanceProject-Group-2/assets/162372579/ea32ec3d-a242-402a-8ba0-36c198a74b57)
+![image](https://github.com/MuheebHasan/advance/tree/main/utils/Capture.PNG)
 
 ## Getting Started
 1. Clone the repository:https://github.com/MuheebHasan/advance.git.
