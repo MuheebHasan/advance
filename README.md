@@ -43,7 +43,7 @@ to promote their products, services, and events.
 5. Axios: making and managing HTTP requests.
 
 ## API Documentation
-The API is fully documented using Postman. Access the documentation [here] ([link](https://documenter.getpostman.com/view/33050087/2sA35HXgRM)).
+The API is fully documented using Postman. Access the documentation [here] ([link](https://www.postman.com/grey-satellite-759134/workspace/advance/collection/34092625-8bf83446-9fb7-41ca-acf5-a8ba15c500a5?action=share&creator=34092625)).
 
 ## Project Folders
  In our project, we've chosen a layered architecture, consisting of the Model, Controller, and Services components. Here's why it's important:
